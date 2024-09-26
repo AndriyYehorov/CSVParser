@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DKPM8GA5vixGHT/wjsczH0Ua6IlXAY9DlSE8oIbxYBA=",
+  "Source": "CSVParser",
+  "BasePath": "_content/CSVParser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
