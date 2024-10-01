@@ -138,3 +138,4 @@ C:\Users\User\source\repos\CSVParser\obj\Debug\net8.0\CSVParser.genruntimeconfig
 C:\Users\User\source\repos\CSVParser\obj\Debug\net8.0\ref\CSVParser.dll
 c:\Users\User\source\repos\CSVParser\bin\Debug\net8.0\CSVParser.Client\package-lock.json
 c:\Users\User\source\repos\CSVParser\bin\Debug\net8.0\CSVParser.Client\package.json
+c:\Users\User\source\repos\CSVParser\obj\Debug\net8.0\CSVParser.sourcelink.json
