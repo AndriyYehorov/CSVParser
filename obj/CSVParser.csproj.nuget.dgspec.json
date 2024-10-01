@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj": {}
+    "C:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj": {
+    "C:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj",
         "projectName": "CSVParser",
-        "projectPath": "c:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CSVParser\\CSVParser.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\source\\repos\\CSVParser\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CSVParser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
